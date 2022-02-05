@@ -1,0 +1,15 @@
+ {
+    "Konfiguracja": {
+        "token": "",
+        "prefix": "",
+        "name": ""
+    },
+    "Opcje": {
+        "MachineChannelID": "",  
+        "BotID": "",
+        "SuggestionChannelID": "",
+        "CGARoleID": "",
+        "LogChannelID": "",
+        "TeamRoleID": ""
+    }
+}
